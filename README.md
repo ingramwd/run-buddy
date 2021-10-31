@@ -1,12 +1,16 @@
-Run Buddy
-Purpose
-A website that offers fitness training services.
+# Run Buddy, Inc
 
-Built With
-HTML
-CSS
-Website
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
 https://ingramwd.github.io/run-buddy/
 
-Contribution
-Made with ❤️ by William D. Ingram
+## Contribution
+Made with ❤️ by [William D. Ingram]
+
+### ©️2019 Run Buddy, Inc
