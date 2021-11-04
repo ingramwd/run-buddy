@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Run Buddy Inc.
+=======
 # Run Buddy, Inc
 
 ## Purpose
@@ -14,3 +17,4 @@ https://ingramwd.github.io/run-buddy/
 Made with ❤️ by [William D. Ingram]
 
 ### ©️2019 Run Buddy, Inc
+>>>>>>> bd63d6cbcc941aafa45ecf82023f73dde04b9878
